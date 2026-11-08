@@ -1,0 +1,433 @@
+{
+ "consultado": "2026-11-08",
+ "nota": "Fase 1. Solo se afirma lo que aparece en documentos oficiales consultados. El Acuerdo 037 de 2017 de la Facultad se leyó completo (texto aportado por el estudiante desde la base legal UNAL, que exige captcha). El articulado de los acuerdos 026 de 2012 y 008 de 2008 sigue sin leerse completo: lo que depende solo de ellos está marcado como parcial. Las implicaciones son interpretación de la IA, no norma.",
+ "secciones": [
+  {
+   "id": "modalidades",
+   "titulo": "Concepto y modalidades de trabajo de grado"
+  },
+  {
+   "id": "general",
+   "titulo": "Normativa general"
+  },
+  {
+   "id": "programa",
+   "titulo": "Facultad de Ingeniería y programa de Ingeniería de Sistemas y Computación"
+  },
+  {
+   "id": "interdisciplinar",
+   "titulo": "Trabajo interdisciplinar"
+  },
+  {
+   "id": "etica",
+   "titulo": "Participantes humanos y datos personales"
+  }
+ ],
+ "items": [
+  {
+   "id": "R01",
+   "seccion": "modalidades",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "El trabajo de grado es una asignatura del plan de estudios",
+   "explicacion": "No es un trámite aparte: se inscribe y se califica como una asignatura del componente disciplinar o profesional, en un periodo académico.",
+   "fundamento": "Acuerdo 033 de 2007 del Consejo Superior Universitario, art. 10; Acuerdo 026 de 2012 del Consejo Académico, art. 1.",
+   "cita": "el Trabajo de Grado es una asignatura que forma parte del Componente Disciplinar del Plan de Estudios del respectivo Programa",
+   "fuentes": [
+    {
+     "label": "Acuerdo 003 de 2024 del Consejo de Facultad de Ciencias Económicas (cita ambos acuerdos)",
+     "url": "https://fce.unal.edu.co/ori/images/Normativa/Acuerdo%20003%20de%202024%20-%20Trabajo%20de%20grado.pdf",
+     "tipo": "oficial UNAL (otra facultad, cita la norma general)"
+    }
+   ],
+   "implicacion": "La tesis tiene que caber en el calendario de un semestre (el formato de la Facultad trae un cronograma de 16 semanas), aunque la preparación previa puede empezar antes."
+  },
+  {
+   "id": "R02",
+   "seccion": "modalidades",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Modalidades vigentes en la Facultad de Ingeniería (sede Bogotá)",
+   "explicacion": "I. Trabajos investigativos: a) trabajo monográfico, b) proyecto final, c) participación en proyecto de investigación. II. Prácticas de extensión: a) emprendimiento empresarial, b) pasantía, c) proyecto social. III. Asignaturas de posgrado. La participación en proyecto de investigación solo vale si el proyecto o semillero hace parte de una convocatoria de la Universidad o fue aprobado por la Dirección de Investigaciones de la Sede o de la Universidad.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería, art. 2 y parágrafo 1; formato oficial de registro.",
+   "cita": "I. Trabajos investigativos … a. Trabajo monográfico … b. Proyecto final … c. Participación en proyecto de investigación",
+   "fuentes": [
+    {
+     "label": "Formato registro asignatura Trabajo de Grado (Facultad de Ingeniería, versión publicada en 2026)",
+     "url": "https://ingenieria.bogota.unal.edu.co/wp-content/uploads/2026/06/FORMATO-REGISTRO-ASIGNATURA-TRABAJO-DE-GRADO_act.docx",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Una tesis de investigación encaja en la modalidad I: (a) si es una síntesis o estudio monográfico, (b) si construye y evalúa algo, o (c) si te vinculas a un proyecto o semillero registrado. Para (c), confirma que el proyecto esté aprobado por la Dirección de Investigaciones."
+  },
+  {
+   "id": "R03",
+   "seccion": "modalidades",
+   "estado": "verificado",
+   "tipo": "Dato del programa",
+   "titulo": "Qué modalidad eligen los estudiantes de Sistemas",
+   "explicacion": "Entre 2015 y 2019, en promedio el 44 % cursó asignaturas de posgrado, el 44 % hizo prácticas de extensión y solo el 12 % hizo trabajos investigativos.",
+   "fundamento": "Informe de Evaluación Continua 2019 del programa de Ingeniería de Sistemas y Computación (fuente de los datos: Dirección Nacional de Programas de Pregrado).",
+   "cita": "en promedio el 44% de los estudiantes elige cursar asignaturas de posgrado, el 44% realizar prácticas de extensión y el 12% trabajos investigativos",
+   "fuentes": [
+    {
+     "label": "Informe de Evaluación Continua 2019, Ingeniería de Sistemas y Computación",
+     "url": "https://ingenieria.bogota.unal.edu.co/images/recursos/dependencias/areasCurriculares/areaSistemas/Informe_Evaluacion_Continua_2019_-_Ingenieria_SyC.pdf",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "La modalidad investigativa es minoritaria en el programa: conviene hablar pronto con posibles directores, porque no todos dirigen trabajos de este tipo cada semestre."
+  },
+  {
+   "id": "R04",
+   "seccion": "general",
+   "estado": "parcial",
+   "tipo": "Disposición normativa",
+   "titulo": "Acuerdo 026 de 2012 del Consejo Académico",
+   "explicacion": "Define los criterios con los que se reglamenta la asignatura Trabajo de Grado en todos los pregrados; deroga la Resolución 022 de 2011 de la Vicerrectoría Académica. Las facultades reglamentan los detalles.",
+   "fundamento": "Acuerdo 026 de 2012 del Consejo Académico (citado también junto al Acuerdo 058 de 2012 del mismo Consejo).",
+   "cita": "",
+   "fuentes": [
+    {
+     "label": "Marco normativo, Dirección Nacional de Programas de Pregrado",
+     "url": "https://pregrado.unal.edu.co/marconormativo",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Texto en la base legal UNAL (requiere captcha)",
+     "url": "http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=47025",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Parcial: no se leyó el articulado. Falta confirmar qué dice sobre director, calificación y propiedad intelectual, y qué cambió el Acuerdo 058 de 2012."
+  },
+  {
+   "id": "R05",
+   "seccion": "general",
+   "estado": "parcial",
+   "tipo": "Disposición normativa",
+   "titulo": "Estatuto Estudiantil (disposiciones académicas)",
+   "explicacion": "Acuerdo 008 de 2008 del Consejo Superior Universitario: regula inscripción de asignaturas, calificaciones, cancelaciones y demás reglas académicas que también aplican a la asignatura Trabajo de Grado.",
+   "fundamento": "Acuerdo 008 de 2008 del Consejo Superior Universitario.",
+   "cita": "",
+   "fuentes": [
+    {
+     "label": "Marco normativo, Dirección Nacional de Programas de Pregrado",
+     "url": "https://pregrado.unal.edu.co/marconormativo",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Parcial: no se revisaron artículos concretos. Relevante sobre todo si necesitas cancelar o aplazar la asignatura."
+  },
+  {
+   "id": "R06",
+   "seccion": "general",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Propiedad intelectual del trabajo de grado",
+   "explicacion": "Todos los productos finales de las modalidades Trabajos Investigativos y Prácticas de Extensión quedan cobijados por el Reglamento de Propiedad Intelectual de la Universidad (Acuerdo 035 de 2003 del Consejo Académico).",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 9, parágrafo 1.",
+   "cita": "Todos los productos finales de las modalidades Trabajos Investigativos y Prácticas de Extensión de la asignatura Trabajo de Grado, estarán cobijados por el Acuerdo 035 de 2003 del Consejo Académico",
+   "fuentes": [
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Verificado que el reglamento aplica; el contenido del Acuerdo 035 de 2003 (titularidad, derechos de explotación) no se leyó. Importa si la tesis produce software, datos o un diseño registrable, o si se hace con una empresa."
+  },
+  {
+   "id": "R07",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería",
+   "explicacion": "Reglamenta inscripción, presentación, calificación y socialización del trabajo de grado en los pregrados de Ingeniería, sede Bogotá. Capítulos: objetivo, modalidades (art. 2), inscripción (arts. 3–4), soportes de inscripción por modalidad (arts. 5–7), director (art. 8) y socialización (art. 9). No regula jurados ni número de estudiantes por trabajo: la evaluación y la calificación final las hace el director.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (acta 7, 27 de abril; firmado el 10 de mayo de 2017), expedido con base en el Acuerdo 033 de 2007 del CSU y el Acuerdo 026 de 2012 del Consejo Académico.",
+   "cita": "Reglamentar el proceso de inscripción, presentación, calificación y socialización de la asignatura Trabajo de Grado",
+   "fuentes": [
+    {
+     "label": "Formato registro asignatura Trabajo de Grado",
+     "url": "https://ingenieria.bogota.unal.edu.co/wp-content/uploads/2026/06/FORMATO-REGISTRO-ASIGNATURA-TRABAJO-DE-GRADO_act.docx",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Texto en la base legal UNAL (requiere captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Es la norma que más te aplica y ya está completa. Lo que no dice (codirección, trabajo entre dos estudiantes, jurados) hay que preguntarlo al Comité Asesor o buscarlo en el Acuerdo 026 de 2012."
+  },
+  {
+   "id": "R08",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Requisito para inscribir el trabajo de grado",
+   "explicacion": "Haber aprobado los créditos del componente de formación disciplinar o profesional exigidos por el plan de estudios del programa.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 3 (remite a los prerrequisitos del plan de estudios); Acuerdo 26 de 2014 (plan de estudios de Sistemas, según la Facultad).",
+   "cita": "La asignatura Trabajo de Grado podrá ser inscrita cuando cumpla los prerrequisitos estipulados en el Acuerdo del Plan de estudios de cada Programa Curricular.",
+   "fuentes": [
+    {
+     "label": "Preguntas frecuentes, Secretaría Académica de la Facultad de Ingeniería",
+     "url": "https://ingenieria.bogota.unal.edu.co/es/dependencias/secretaria-academica/preguntas-frecuentes.html",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Revisa en tu historia académica (SIA) cuántos créditos disciplinares te faltan; el porcentaje exacto no se verificó."
+  },
+  {
+   "id": "R09",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Cómo y cuándo se inscribe",
+   "explicacion": "Se formaliza ante el Comité Asesor del programa antes de que termine la semana 14 del periodo anterior, para todas las modalidades. Se tramita por el SIA (la Facultad indica hoy un formulario web) y se presentan el formato de registro y el documento soporte de la modalidad, firmados por el profesor director y el estudiante. Si se presenta tarde o los soportes no cumplen, no se aprueba y hay que reiniciar el proceso para el periodo siguiente.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 4 y parágrafo 1; Acuerdo 026 de 2012 del Consejo Académico, art. 8.",
+   "cita": "En caso de presentar la solicitud de registro después de la semana catorce del periodo académico anterior … no se aprobará la inscripción del Trabajo de Grado y el estudiante deberá reiniciar el proceso para el siguiente periodo académico.",
+   "fuentes": [
+    {
+     "label": "Preguntas frecuentes, Secretaría Académica",
+     "url": "https://ingenieria.bogota.unal.edu.co/es/dependencias/secretaria-academica/preguntas-frecuentes.html",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Formato registro (art. 6, parágrafo 1, citado en el formato)",
+     "url": "https://ingenieria.bogota.unal.edu.co/wp-content/uploads/2026/06/FORMATO-REGISTRO-ASIGNATURA-TRABAJO-DE-GRADO_act.docx",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "No hay prórroga: si quieres cursar el trabajo de grado en 2027-1, la propuesta firmada por el director tiene que entrarse antes de que acabe la semana 14 de 2026-2. Consulta el calendario académico: esa fecha puede estar muy cerca o haber pasado."
+  },
+  {
+   "id": "R10",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Qué debe contener la propuesta (modalidad I)",
+   "explicacion": "Mínimo: título y modalidad, nombres del estudiante y del director, introducción y justificación, objetivos general y específicos, antecedentes, metodología, recursos, cronograma, presupuesto y fuentes de financiación, criterios de evaluación, resultados esperados, bibliografía y firmas del estudiante y del director. El formato pide además el cronograma en 16 semanas y los criterios con porcentajes.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 5; formato oficial de registro.",
+   "cita": "Título y modalidad … Antecedentes … Metodología … Recursos … Cronograma de actividades … Presupuesto y fuentes de financiación … Criterios de evaluación",
+   "fuentes": [
+    {
+     "label": "Formato registro asignatura Trabajo de Grado",
+     "url": "https://ingenieria.bogota.unal.edu.co/wp-content/uploads/2026/06/FORMATO-REGISTRO-ASIGNATURA-TRABAJO-DE-GRADO_act.docx",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "El atlas ya alimenta los antecedentes y la bibliografía; los criterios de evaluación y el cronograma hay que acordarlos con el director."
+  },
+  {
+   "id": "R11",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Director del trabajo de grado",
+   "explicacion": "Las modalidades I y II tienen un director, que debe ser docente de la UNAL en ejercicio, aceptado y formalizado por el Comité Asesor. Sus funciones: avalar la propuesta; concertar con el estudiante una agenda de seguimiento y evaluaciones; hacer el seguimiento y la calificación final; evaluar el informe escrito final; reportar la nota al SIA en los plazos del calendario; y, si lo considera, proponer la socialización o la postulación a concursos de mejores trabajos. Si el director falta temporal o permanentemente, el Comité Asesor designa otro.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 8 y parágrafo.",
+   "cita": "quien deberá ser un docente de la Universidad Nacional de Colombia en ejercicio, aceptado y formalizado por el Comité Asesor del correspondiente programa curricular",
+   "fuentes": [
+    {
+     "label": "Formato registro asignatura Trabajo de Grado",
+     "url": "https://ingenieria.bogota.unal.edu.co/wp-content/uploads/2026/06/FORMATO-REGISTRO-ASIGNATURA-TRABAJO-DE-GRADO_act.docx",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "El director califica solo: no hay jurado en este acuerdo. Acordar desde la propuesta los criterios de evaluación con porcentajes te protege. Primer paso real: conseguir director antes de cerrar el tema."
+  },
+  {
+   "id": "R12",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Alternativa: asignaturas de posgrado como trabajo de grado",
+   "explicacion": "El Comité Asesor del posgrado debe autorizar que presentes el examen de admisión; si eres admitido, las asignaturas de posgrado que cursas siendo de pregrado constituyen el trabajo de grado. El soporte de inscripción incluye las asignaturas y su programa, más una carta de aval del coordinador del posgrado que confirme cupos para el periodo siguiente; las asignaturas deben ser de un posgrado de la UNAL.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 7 y parágrafos 1–2; Acuerdo 026 de 2012, capítulo IV; Acuerdo 033 de 2007 del CSU, art. 10, parágrafo.",
+   "cita": "",
+   "fuentes": [
+    {
+     "label": "Preguntas frecuentes, Secretaría Académica",
+     "url": "https://ingenieria.bogota.unal.edu.co/es/dependencias/secretaria-academica/preguntas-frecuentes.html",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "No produce una tesis propia, pero es la opción más común en el programa (44 %). Sirve como plan B o como puente a una maestría donde continuar este tema."
+  },
+  {
+   "id": "R13",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Pasantía: requiere convenio con la organización",
+   "explicacion": "El convenio se gestiona ante la Oficina de Prácticas y Pasantías de la Facultad; no se aceptan contratos de aprendizaje. Antes del primer día de labores se presentan al Comité Asesor el convenio, la carta de intención o el acuerdo de voluntades, el contrato y la afiliación a riesgos laborales (ARL), y cada mes se envía el comprobante de ARL. Duración mínima: 16 semanas (también para proyecto social). En el exterior exige aval de una institución educativa con convenio. Los soportes que falten al inscribir se pueden completar hasta la semana 8 del semestre en que se cursa.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 6 y parágrafos 1–8.",
+   "cita": "el documento del convenio vigente o la carta de intención o el acuerdo de voluntades, entre la Universidad Nacional de Colombia y la organización",
+   "fuentes": [
+    {
+     "label": "Formato registro asignatura Trabajo de Grado",
+     "url": "https://ingenieria.bogota.unal.edu.co/wp-content/uploads/2026/06/FORMATO-REGISTRO-ASIGNATURA-TRABAJO-DE-GRADO_act.docx",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Solo aplica si la tesis se hace dentro de una empresa (por ejemplo, la O05 o la O11 en una organización colombiana)."
+  },
+  {
+   "id": "R19",
+   "seccion": "programa",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Entrega final y socialización",
+   "explicacion": "En las modalidades I y II, el estudiante entrega al director un documento escrito antes de que termine la semana 15 del periodo en que tiene inscrita la asignatura. Contenido mínimo: título, nombres del estudiante y del director, objetivos, metodología, resultados alcanzados, análisis de resultados, trabajo futuro y conclusiones. La presentación pública es opcional: la pide el director al Comité Asesor antes de la semana 12 y se hace en las semanas 15 o 16.",
+   "fundamento": "Acuerdo 037 de 2017 del Consejo de Facultad, art. 9 y parágrafo 2.",
+   "cita": "deberán quedar consignados en un documento escrito que será entregado al director por el estudiante, antes de la finalización de la semana quince del periodo académico",
+   "fuentes": [
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "El calendario real es de 15 semanas, no 16. Si recolectas datos con personas, el aval de ética y la toma de datos tienen que caber antes de eso: lo más seguro es pedir el aval antes de empezar el semestre."
+  },
+  {
+   "id": "R14",
+   "seccion": "interdisciplinar",
+   "estado": "por_verificar",
+   "tipo": "Pendiente",
+   "titulo": "Codirección con un profesor de Diseño Industrial",
+   "explicacion": "El Acuerdo 037 de 2017 no menciona codirección ni trabajos conjuntos entre estudiantes de dos programas. Sí exige que el director sea docente de la UNAL en ejercicio, aceptado por el Comité Asesor del programa, sin restringirlo a un departamento de Ingeniería.",
+   "fundamento": "Acuerdo 037 de 2017, art. 8 (silencio sobre codirección); Acuerdo 026 de 2012 no leído completo.",
+   "cita": "",
+   "fuentes": [
+    {
+     "label": "Acuerdo 037 de 2017 del Consejo de Facultad de Ingeniería (texto de la base legal UNAL, copiado por el estudiante tras el captcha)",
+     "url": "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=88861",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Interpretación: un profesor de Diseño Industrial es docente de la UNAL, así que en principio podría ser aceptado como director por el Comité Asesor de Sistemas, pero eso lo decide el Comité. Pregunta por escrito al Área Curricular si admiten director de otra facultad o una codirección informal. Alternativa: la modalidad I(c) en un proyecto registrado con profesores de ambas áreas."
+  },
+  {
+   "id": "R15",
+   "seccion": "etica",
+   "estado": "verificado",
+   "tipo": "Procedimiento",
+   "titulo": "Comité de Ética en Investigación de la Facultad de Ingeniería",
+   "explicacion": "Creado por el Acuerdo de Facultad 132 de 2021. La solicitud de aval se radica en el sistema Hermes con el formato de solicitud firmado en PDF; hay un instructivo y un reglamento interno. Contacto: ceticafi_bog@unal.edu.co. Sesiona una vez al mes, con fecha límite de solicitudes una semana antes.",
+   "fundamento": "Acuerdo 132 de 2021 del Consejo de Facultad de Ingeniería.",
+   "cita": "",
+   "fuentes": [
+    {
+     "label": "Vicedecanatura de Investigación y Extensión, Facultad de Ingeniería",
+     "url": "https://ingenieria.bogota.unal.edu.co/en/vicedecanatura-investigacion-extension/",
+     "tipo": "oficial UNAL"
+    },
+    {
+     "label": "Acuerdo 132 de 2021 (base legal, requiere captcha)",
+     "url": "https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=100011",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Sesiones que quedan en 2026: 27 de noviembre (solicitudes hasta el 20 de noviembre) y 18 de diciembre (hasta el 11 de diciembre). Si la tesis tiene participantes, el aval debe pedirse antes de recolectar datos; súmale al menos un mes al cronograma."
+  },
+  {
+   "id": "R16",
+   "seccion": "etica",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Clasificación del riesgo de una investigación con personas",
+   "explicacion": "Sin riesgo: documental, entrevistas o cuestionarios sin identificar al participante ni tratar aspectos sensibles. Riesgo mínimo: registro de datos con procedimientos comunes, como electrocardiogramas, ejercicio moderado en voluntarios sanos o pruebas psicológicas sin manipular la conducta. Riesgo mayor que el mínimo: entre otros, ensayos con nuevos dispositivos.",
+   "fundamento": "Resolución 8430 de 1993 del Ministerio de Salud, art. 11.",
+   "cita": "Investigación con riesgo mínimo: Son estudios prospectivos que emplean el registro de datos a través de procedimientos comunes … electrocardiogramas … ejercicio moderado en voluntarios sanos",
+   "fuentes": [
+    {
+     "label": "Resolución 8430 de 1993, Ministerio de Salud",
+     "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/RESOLUCION-8430-DE-1993.PDF",
+     "tipo": "oficial nacional"
+    }
+   ],
+   "implicacion": "Interpretación: una revisión sistemática o un estudio con datasets públicos no tiene participantes; medir carga física o mental con sensores (O01, O09) sería probablemente de riesgo mínimo; probar un prototipo físico en personas (O13, un exoesqueleto) podría clasificarse como riesgo mayor. La clasificación final la hace el comité."
+  },
+  {
+   "id": "R17",
+   "seccion": "etica",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Consentimiento informado",
+   "explicacion": "Por regla general debe ser escrito y revisado por el comité de ética. En investigaciones de riesgo mínimo el comité puede autorizar que no sea por escrito, y en investigaciones sin riesgo puede dispensarlo. Los estudiantes cuentan como grupo subordinado (art. 45), lo que importa si reclutas compañeros.",
+   "fundamento": "Resolución 8430 de 1993, arts. 15, 16 (parágrafo primero) y 45.",
+   "cita": "tratándose de investigaciones sin riesgo, podrá dispensar al investigador de la obtención del mismo",
+   "fuentes": [
+    {
+     "label": "Resolución 8430 de 1993, Ministerio de Salud",
+     "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/RESOLUCION-8430-DE-1993.PDF",
+     "tipo": "oficial nacional"
+    }
+   ],
+   "implicacion": "Reclutar estudiantes de tu propio curso como participantes exige cuidar que el consentimiento sea libre; el comité lo revisará."
+  },
+  {
+   "id": "R18",
+   "seccion": "etica",
+   "estado": "verificado",
+   "tipo": "Disposición normativa",
+   "titulo": "Política de tratamiento de datos personales de la UNAL",
+   "explicacion": "La Resolución 207 de 2021 de Rectoría establece la política de datos personales de la Universidad (deroga la Resolución 440 de 2019), con finalidades que incluyen las actividades de investigación y extensión, los datos sensibles y los datos biométricos (imágenes y video). Contacto: protecdatos_na@unal.edu.co. Se enmarca en la Ley Estatutaria 1581 de 2012.",
+   "fundamento": "Resolución 207 de 2021 de Rectoría (vigente desde el 22/04/2021); Ley 1581 de 2012.",
+   "cita": "Gestión de Datos Biométricos - Imágenes y Video, Gestión de Actividades de Investigación y de Extensión",
+   "fuentes": [
+    {
+     "label": "Resolución 207 de 2021 (copia del régimen legal UNAL)",
+     "url": "https://quejasyreclamos.unal.edu.co/documentos_spqrs/RESOLUCION207DE2021.pdf",
+     "tipo": "oficial UNAL"
+    }
+   ],
+   "implicacion": "Interpretación: video de postura, señales fisiológicas o datos de salud de participantes son datos personales y en buena parte sensibles. Necesitas autorización explícita, almacenamiento seguro y, en lo posible, anonimizar antes de analizar o publicar."
+  }
+ ],
+ "pendientes": [
+  "Confirmar en el Acuerdo 026 de 2012 (y el 058 de 2012) si hay reglas sobre codirección, trabajo entre dos estudiantes o jurados.",
+  "Leer el Acuerdo 035 de 2003 (propiedad intelectual) si la tesis va a producir software, datos o diseños registrables.",
+  "Porcentaje exacto de créditos exigido en el plan de Ingeniería de Sistemas y Computación (Acuerdo 26 de 2014, según la Facultad).",
+  "Preguntar al Área Curricular si un profesor de Diseño Industrial puede ser director o codirector.",
+  "Fecha de la semana 14 del periodo 2026-2 en el calendario académico de la sede Bogotá."
+ ],
+ "como_completar": "Para cerrar los parciales que quedan, pega en el chat el texto del Acuerdo 026 de 2012 del Consejo Académico (base legal UNAL, d_i=47025)."
+}
